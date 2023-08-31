@@ -1,5 +1,7 @@
 # Responsive-Side-Navigation-Bar
 
+![image](https://github.com/onurcancira96/Responsive-Side-Navigation-Bar/assets/114770570/3877868f-19c7-4e9e-9e8c-f7b01ee88b2e)
+
 Bu proje, HTML, CSS ve JavaScript kullanarak yanıt veren bir gezinme çubuğunu içeren basit bir web sayfası tasarımını ve etkileşimli davranışlarını içerir.
 
 https://onurcancira96.github.io/Responsive-Side-Navigation-Bar/
